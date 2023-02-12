@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/carbon_A001D.mk
+    $(LOCAL_DIR)/derp_A001D.mk
